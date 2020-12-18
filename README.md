@@ -1,6 +1,6 @@
 this is a little preview
 
-https://raw.githubusercontent.com/amanyadav1998/Modern-CV/master/Screenshot.png
+https://raw.githubusercontent.com/amanyadav1998/Modern-CV/master/Screenshot.png?raw=true
 
 
 # Modern-CV
